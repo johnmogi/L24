@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EACN,UAAU,EAAC,IAAI;CAClB",
+    "sources": [
+        "custom.scss",
+        "header.scss"
+    ],
+    "names": [],
+    "file": "custom.css"
+}
